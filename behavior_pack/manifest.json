@@ -1,0 +1,16 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Ellie NPC Behavior Pack",
+    "name": "Ellie NPC BP",
+    "uuid": "8ddc3e6f-1d60-4a77-8c7a-5f6b2f9c1a12",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "36b7f1d9-65b8-406f-b4b5-8a9e61d0b6b9",
+      "version": [1, 0, 0]
+    }
+  ]
+}
